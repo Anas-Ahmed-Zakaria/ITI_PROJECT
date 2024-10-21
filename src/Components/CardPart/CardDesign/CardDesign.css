@@ -1,0 +1,18 @@
+.addBtn {
+    transition: 0.8s linear !important;
+}
+
+.addBtn:hover {
+    background-color: #ffffff !important;
+    color: #6d757d !important;
+    color: red !important;
+}
+
+.detail {
+    transition: 0.8s linear !important;
+}
+
+.detail:hover {
+    background-color: #6d757d !important;
+    color: #ffffff !important;
+}

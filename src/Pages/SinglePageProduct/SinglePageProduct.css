@@ -1,0 +1,9 @@
+.addBtn {
+    transition: 0.8s linear !important;
+}
+
+
+.addBtn:hover {
+    color: #6d757d !important;
+    background-color: #ffffff !important;
+}

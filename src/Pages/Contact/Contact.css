@@ -1,0 +1,26 @@
+.cardContact {
+    transition: 0.8s linear !important;
+    cursor: pointer;
+}
+
+.cardContact a,
+.cardContact .icon,
+.cardContact .text {
+    transition: 0.8s linear !important;
+}
+
+
+.cardContact:hover {
+    background-color: #6d757d !important;
+}
+
+
+.cardContact:hover a,
+.cardContact:hover .icon {
+    background-color: #ffff !important;
+    color: #6d757d !important;
+}
+
+.cardContact:hover .text {
+    color: #ffff !important;
+}
